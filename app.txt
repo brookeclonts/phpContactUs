@@ -1,0 +1,5 @@
+[2015-10-02 16:28:37] name.WARNING: Foo [] []
+[2015-10-02 16:28:45] name.WARNING: Foo [] []
+[2015-10-02 16:32:09] name.WARNING: Foo [] []
+[2015-10-02 16:33:16] name.WARNING: Foo [] []
+[2015-10-02 17:38:12] name.WARNING: Oh no! [] []
